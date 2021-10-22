@@ -1,8 +1,8 @@
-title: CV | A jekyll template
-description:  A beautiful template for your CV.
+title: Robert Bahensky
+description: Robert's personal webpage
 url: https://jekyll-cv.stavrospanakakis.com
 baseurl: ''
-theme_skin: blue
+theme_skin: black
 
 sass:
   sass_dir: _sass
